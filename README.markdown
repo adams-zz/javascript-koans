@@ -13,7 +13,7 @@ Extra credit:
   * Make the rest of the tests pass.
   * Explain Crockford's concept to a teacher.
 
-You shouldn't need to write any Jasmine code, but if you'd like to know more, check out [their docs](http://pivotal.github.com/jasmine/).
+You shouldn't need to write any Jasmine code, but if you'd like to know more, check out [their docs](https://jasmine.github.io/).
 
 ## Resources for code quality:
 * http://jsbeautifier.org/
@@ -50,7 +50,7 @@ browsers.
 The first error will be in koans/AboutExpects.js. Fix the first test and
 refresh the browser. Rinse and repeat until all tests turn green.
 
-The test runner used is [Jasmine](http://pivotal.github.com/jasmine/) with a
+The test runner used is [Jasmine](https://jasmine.github.io/) with a
 customized report viewer.
 
 ### Changelog
